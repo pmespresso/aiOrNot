@@ -1,32 +1,35 @@
-import React, { ReactNode } from 'react'
-import Link from 'next/link'
-import Head from 'next/head'
+import React from "react";
+import Link from "next/link";
 
-type Props = {
-  children?: ReactNode
-  title?: string
+interface LayoutProps {
+  children: React.ReactNode;
 }
 
-const Layout = ({ children, title = 'This is the default title' }: Props) => (
-  <div>
-    <Head>
-      <title>{title}</title>
-      <meta charSet="utf-8" />
-      <meta name="viewport" content="initial-scale=1.0, width=device-width" />
-    </Head>
-    <header>
-      <nav>
-        <Link href="/">Home</Link> | <Link href="/about">About</Link> |{' '}
-        <Link href="/users">Users List</Link> |{' '}
-        <a href="/api/users">Users API</a>
-      </nav>
-    </header>
-    {children}
-    <footer>
-      <hr />
-      <span>I'm here to stay (Footer)</span>
-    </footer>
-  </div>
-)
+const Layout: React.FC<LayoutProps> = ({ children }) => {
+  return (
+    <div className="min-h-screen bg-gray-100">
+      <header className="bg-white shadow">
+        <nav className="container mx-auto px-4 py-6">
+          <ul className="flex space-x-4">
+            <li>
+              <Link href="/game" className="text-blue-500 hover:text-blue-600">
+                Game
+              </Link>
+            </li>
+            <li>
+              <Link
+                href="/leaderboard"
+                className="text-blue-500 hover:text-blue-600"
+              >
+                Leaderboard
+              </Link>
+            </li>
+          </ul>
+        </nav>
+      </header>
+      <main className="container mx-auto px-4 py-8">{children}</main>
+    </div>
+  );
+};
 
-export default Layout
+export default Layout;

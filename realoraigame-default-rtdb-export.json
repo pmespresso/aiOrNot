@@ -1,0 +1,555 @@
+{
+  "fake": [
+    {
+      "content": "Genetically Engineered Trees Capable of Absorbing Carbon Emissions at Record Speeds"
+    },
+    {
+      "content": "First Fully Solar-Powered City Launched, Eliminating Carbon Footprint"
+    },
+    {
+      "content": "Scientists Discover How to Synthesize Water, Solving Global Water Crisis"
+    },
+    {
+      "content": "Tech Giant Develops Holographic Smartphone, Revolutionizing Mobile Communication"
+    },
+    {
+      "content": "Asteroid Mining Industry Booms, Creating New Space Gold Rush"
+    },
+    {
+      "content": "New Study Shows Houseplants Capable of Boosting Human Intelligence"
+    },
+    {
+      "content": "Researchers Develop Teleportation Technology, Making Commutes Obsolete"
+    },
+    {
+      "content": "Invisibility Cloak Invented, Revolutionizing Security and Surveillance Industries"
+    },
+    {
+      "content": "Ocean Cleanup Project Successfully Removes 99% of Pacific Garbage Patch"
+    },
+    {
+      "content": "World's First Floating City Opens, Offering Luxurious Offshore Living"
+    },
+    {
+      "content": "AI-Generated Artwork Sells for Record-Breaking Sum at Auction"
+    },
+    {
+      "content": "Breakthrough Discovery: Scientists Cure All Forms of Cancer"
+    },
+    {
+      "content": "World Hunger Eradicated Through Efficient Vertical Farming Techniques"
+    },
+    {
+      "content": "Long-Lost Shakespeare Play Discovered in Private Collection"
+    },
+    {
+      "content": "Giant Prehistoric Shark Found Alive in the Depths of the Ocean"
+    },
+    {
+      "content": "Archaeologists Uncover Ancient City Buried Beneath the Sands of the Sahara"
+    },
+    {
+      "content": "Virtual Reality Therapy Offers New Solutions for Chronic Pain Management"
+    },
+    {
+      "content": "Hollywood Announces First Movie Filmed Entirely on the Moon"
+    },
+    {
+      "content": "3D-Printed Organs Transform Transplant Industry, Saving Thousands of Lives"
+    },
+    {
+      "content": "International Space Agency Announces Plans for Permanent Lunar Colony"
+    },
+    {
+      "content": "New Species of Fruit Discovered, Tastes Like a Combination of Apple and Chocolate"
+    },
+    {
+      "content": "Climbing Mount Everest Made Possible with Personal Jetpack Technology"
+    },
+    {
+      "content": "Volcanic Island Emerges from the Ocean, Revealing Prehistoric Plant Life"
+    },
+    {
+      "content": "DNA Testing Company Offers Glimpse into Future Children's Appearance"
+    },
+    {
+      "content": "Quantum Computing Unlocks Secrets of the Universe, Redefining Modern Physics"
+    },
+    {
+      "content": "Robot Pets Overtake Traditional Pets in Popularity and Functionality"
+    },
+    {
+      "content": "Deep-Sea Exploration Uncovers Treasure Trove of Ancient Shipwrecks"
+    },
+    {
+      "content": "Biodegradable Plastics Revolutionize Packaging Industry, Reducing Waste"
+    },
+    {
+      "content": "Scientists Achieve Breakthrough in Fusion Energy, Promising Unlimited Power"
+    },
+    {
+      "content": "Major Auto Manufacturer Unveils Hover Car Prototype, Promising Traffic-Free Future"
+    },
+    {
+      "content": "Study Finds Drinking Coffee Extends Human Lifespan by 10 Years"
+    },
+    {
+      "content": "Global Ban on Single-Use Plastics Announced by United Nations"
+    },
+    {
+      "content": "New Material Invented: Lightweight, Stronger Than Steel, and Self-Healing"
+    },
+    {
+      "content": "Researchers Discover Hidden Amazon Rainforest Tribe with Advanced Medical Knowledge"
+    },
+    {
+      "content": "AI Composes Symphony, Outperforms Human Composers in Musical Competitions"
+    },
+    {
+      "content": "Climate Change Reversal: Scientists Develop Solution to Restore Polar Ice Caps"
+    },
+    {
+      "content": "Universal Basic Income Implemented Globally, Eradicating Poverty"
+    },
+    {
+      "content": "Superhuman Athletes Emerge as Gene Editing Enhances Physical Performance"
+    },
+    {
+      "content": "Lost City of Atlantis Found in Mediterranean, Confirming Ancient Legend"
+    },
+    {
+      "content": "Biologists Discover Vegetation Capable of Cleaning Toxic Waste Sites"
+    },
+    {
+      "content": "First Contact: Extraterrestrial Signal Received from Distant Star System"
+    },
+    {
+      "content": "Record-Breaking Roller Coaster Reaches Speeds of 300 MPH"
+    },
+    {
+      "content": "Medical Breakthrough: Complete Paralysis Reversed Using Stem Cell Therapy"
+    },
+    {
+      "content": "Nano-Robots Successfully Remove Plastic Pollution from Oceans"
+    },
+    {
+      "content": "First Space Hotel Offers Luxury Accommodations and Stunning Earth Views"
+    },
+    {
+      "content": "Age-Reversing Drug Successfully Tested on Humans, Promises Longer Life"
+    },
+    {
+      "content": "Giant Pandas Officially Removed from Endangered Species List"
+    },
+    {
+      "content": "Mars Colonization Program Begins Accepting Applications for First Settlers"
+    },
+    {
+      "content": "Scientists Develop Anti-Gravity Technology, Revolutionizing Transportation"
+    },
+    {
+      "content": "Study Finds Trees Capable of Communicating with Each Other Through Complex Network"
+    },
+    {
+      "content": "Wireless Charging Becomes Universal, Eliminating Need for Cables"
+    },
+    {
+      "content": "New Sport Combines Skydiving and Scuba Diving, Becomes Global Sensation"
+    },
+    {
+      "content": "Amelia Earhart's Disappearance Finally Solved After Discovery of Plane Wreckage"
+    },
+    {
+      "content": "World Governments Agree to Eliminate Nuclear Weapons, Ensuring Global Peace"
+    },
+    {
+      "content": "First Cloned Woolly Mammoth Born in Siberia, Marking Milestone in De-Extinction Efforts"
+    },
+    {
+      "content": "Flying Cars Hit the Market, Transforming Urban Transportation"
+    },
+    {
+      "content": "Cold Fusion Reactor Successfully Tested, Ushering in New Era of Clean Energy"
+    },
+    {
+      "content": "Mysterious Monolith Found on Mars, Hinting at Past Intelligent Life"
+    },
+    {
+      "content": "World's First Mind-Controlled Prosthetic Limb Offers Hope to Amputees"
+    },
+    {
+      "content": "Robot Chef Cooks Perfect Meals, Revolutionizing Home Dining"
+    },
+    {
+      "content": "Scientists Unveil Plan to Resurrect Extinct Species Using DNA Reconstruction"
+    },
+    {
+      "content": "New Battery Technology Allows Electric Cars to Travel 1,000 Miles on Single Charge"
+    },
+    {
+      "content": "Telepathic Communication Possible with New Brain-Computer Interface"
+    },
+    {
+      "content": "Designer Babies: Parents Choose Custom Traits for Newborns"
+    },
+    {
+      "content": "First Fully-Automated Restaurant Opens, Staffed Entirely by Robots"
+    },
+    {
+      "content": "Extraterrestrial Fossils Discovered on Mars, Confirming Past Life"
+    },
+    {
+      "content": "Global Warming Reversed: Carbon Capture Technology Successfully Implemented"
+    },
+    {
+      "content": "Global Warming Reversed: Carbon Capture Technology Successfully Implemented"
+    },
+    {
+      "content": "World Leaders Agree to Establish First International Space Colony on Mars"
+    },
+    {
+      "content": "Dear valued customer, We regret to inform you that our service has experienced an unexpected outage. Our team is working diligently to restore service as quickly as possible. Thank you for your patience and understanding. Sincerely, The Support Team"
+    },
+    {
+      "content": "AMBER ALERT: 7-year-old girl, brown hair, last seen wearing a pink jacket and blue jeans, believed to be abducted near Main Street Park. Call 911 with any information."
+    },
+    {
+      "content": "Miracle Cure for Baldness Discovered, Hair Regrowth Guaranteed"
+    },
+    {
+      "content": "Giant Iceberg Breaks Free, Revealing Mysterious Subglacial World"
+    },
+    {
+      "content": "You are cordially invited to the wedding of Jane Doe and John Smith on Saturday, June 25th, 2023 at the Ocean View Resort. Ceremony at 4:00 PM, followed by a reception. RSVP by May 1st."
+    },
+    {
+      "content": "Virtual Reality System Allows Users to Experience Life as a Different Species"
+    },
+    {
+      "content": "Underground City Discovered Beneath Major Metropolis, Baffling Archaeologists"
+    },
+    {
+      "content": "Dear candidate, We are delighted to offer you the position of Software Engineer at XYZ Corporation. Please find the attached offer letter with detailed information regarding your compensation package and benefits. We look forward to welcoming you to our team. Best regards, HR Department"
+    },
+    {
+      "content": "New Ocean Current Discovered, Redefining Our Understanding of Earth's Climate"
+    },
+    {
+      "content": "Earth's Longest-Kept Secret: Hidden Continent Found in the Pacific Ocean"
+    },
+    {
+      "content": "In a world where humans and robots coexist, a brilliant inventor creates an AI capable of experiencing human emotions. As the AI's newfound consciousness sparks a revolution, society must grapple with the consequences of blurring the line between human and machine."
+    },
+    {
+      "content": "Astronomers Discover Earth-Like Planet in Habitable Zone of Nearby Star"
+    },
+    {
+      "content": "Time Capsule from the Year 1900 Found Intact, Revealing Glimpse into the Past"
+    },
+    {
+      "content": "When a mysterious artifact is discovered deep within the Amazon rainforest, a team of experts is assembled to unlock its secrets. As they journey into the heart of the jungle, the group uncovers an ancient civilization and a hidden world more magnificent than they ever imagined."
+    },
+    {
+      "content": "Dramatic Rescue: Missing Hikers Found Alive After Two Weeks in Wilderness"
+    },
+    {
+      "content": "New Plant Species Found to Thrive on Pollution, Cleaning the Environment"
+    },
+    {
+      "content": "Severe thunderstorm warning in effect for the following areas: City Center, Riverside, and Uptown. Expect heavy rainfall, hail, and strong winds. Stay indoors and avoid travel until the storm passes."
+    },
+    {
+      "content": "Self-Driving Cars Achieve Full Autonomy, Making Human Drivers Obsolete"
+    },
+    {
+      "content": "Unprecedented Discovery: Bioluminescent Trees Illuminate City Streets"
+    },
+    {
+      "content": "Introducing the all-new SuperPhone X3: With breakthrough technology, a stunning display, and a battery life that lasts for days, it's the ultimate device for those who demand the best. Pre-order now!"
+    },
+    {
+      "content": "Perpetual Motion Machine Invented, Defying Laws of Physics"
+    },
+    {
+      "content": "Animals Communicate with Humans Using Groundbreaking Translation Device"
+    },
+    {
+      "content": "You're invited to Sarah's 30th birthday party! Join us for a night of fun, food, and dancing at The Rooftop Lounge on Saturday, July 16th at 8 PM. Don't forget to wear your best 80s attire! RSVP by June 30th."
+    },
+    {
+      "content": "Supervolcano Awakens, Prompting Evacuation of Nearby Cities"
+    },
+    {
+      "content": "Polar Bears Adapt to Climate Change, Evolving to Thrive in Warmer Environments"
+    },
+    {
+      "content": "This is a reminder that the monthly staff meeting will be held on Tuesday, August 2nd at 2 PM in the conference room. Please come prepared to discuss the latest projects and updates."
+    },
+    {
+      "content": "New Evidence Suggests Dinosaurs Coexisted with Early Humans"
+    },
+    {
+      "content": "Revolutionary Battery Charges in Seconds, Lasts for Weeks"
+    },
+    {
+      "content": "Don't miss our exclusive one-day sale! Visit our store on Saturday, September 10th for 50% off all items. Hurry in, as supplies are limited and the sale ends at midnight!"
+    },
+    {
+      "content": "Nanotechnology Allows for Invisibility Cloaks, Revolutionizing Espionage"
+    },
+    {
+      "content": "Unmanned Mission to Mars Reveals Signs of Underground Water Reservoirs"
+    },
+    {
+      "content": "The Blue Bistro offers a truly unique dining experience, with exquisite dishes that tantalize the taste buds and an ambiance that transports you to a Parisian cafe. The seared scallops are a must-try, and the attentive service makes for a memorable night out."
+    },
+    {
+      "content": "Entire Island Nation Relocates Due to Rising Sea Levels"
+    },
+    {
+      "content": "Newly Discovered Bacteria Feeds on Plastic Waste, Providing Hope for Pollution Reduction"
+    },
+    {
+      "content": "For a delicious homemade lasagna, start by preheating your oven to 375°F. In a large skillet, brown 1 pound of ground beef, then drain the fat. Add 1 jar of marinara sauce and simmer for 5 minutes. In a separate bowl, mix 15 ounces of ricotta cheese, 1 beaten egg, and 1/4 cup grated Parmesan. Layer the ingredients in a 13x9-inch baking dish, starting with sauce, then noodles, ricotta mixture, and mozzarella. Repeat the layers, finishing with mozzarella on top. Bake for 45 minutes or until bubbly and golden."
+    },
+    {
+      "content": "World Peace Achieved: Nations Sign Historic Treaty to End All Conflicts"
+    },
+    {
+      "content": "Scientist Discovers How to Teleport Objects, Ushering in a New Era of Transportation"
+    },
+    {
+      "content": "Quantum Computing Breakthrough: New Algorithm Solves Previously Impossible Problems"
+    },
+    {
+      "content": "Artificial Photosynthesis Developed, Turning CO2 into Fuel"
+    },
+    {
+      "content": "Seeking a Full Stack Developer with expertise in React, Node.js, and MongoDB. Join our dynamic team and contribute to cutting-edge projects in a fast-paced environment. Apply now with your resume and portfolio!"
+    },
+    {
+      "content": "Asteroid Mining Venture Launches, Unlocking Access to Rare Earth Metals"
+    },
+    {
+      "content": "New Archaeological Find Sheds Light on Ancient Civilization's Advanced Technology"
+    },
+    {
+      "content": "Join the 30-Day Fitness Challenge! Improve your strength, endurance, and flexibility with daily workouts, personalized meal plans, and the support of our online community. Sign up now and take the first step toward a healthier you!"
+    },
+    {
+      "content": "Revolutionary 3D Printing Technology Constructs Entire Buildings in Days"
+    },
+    {
+      "content": "Renowned Scientist Claims Time Travel Possible Within Decades"
+    },
+    {
+      "content": "Congratulations to the Class of 2023! Join us in celebrating the achievements of our graduates at the commencement ceremony on Sunday, May 28th at 10 AM in the university stadium. A reception will follow the ceremony."
+    },
+    {
+      "content": "Discovery of New Element Redefines Periodic Table, Unlocks Potential for Clean Energy"
+    },
+    {
+      "content": "Mind-Reading Technology Allows Users to Control Devices with Their Thoughts"
+    },
+    {
+      "content": "Get ready to rock! The popular band, Electric Storm, is coming to the City Arena on August 20th. Tickets go on sale this Friday at 10 AM. Don't miss your chance to see them live!"
+    },
+    {
+      "content": "Deep-Sea Exploration Uncovers Wreckage of Pirate Ship Laden with Treasure"
+    },
+    {
+      "content": "Groundbreaking Study Finds Plants Can Learn and Remember"
+    },
+    {
+      "content": "Welcome to the March edition of our monthly newsletter! In this issue, you'll find updates on our latest projects, a spotlight on our employee of the month, and upcoming events you won't want to miss. Happy reading!"
+    },
+    {
+      "content": "New Teleportation Device to Revolutionize Travel, End Traffic Jams"
+    },
+    {
+      "content": "Tech Company Unveils Holographic Communication System, Making Video Calls Obsolete"
+    },
+    {
+      "content": "We are proud to announce that our very own Dr. Jane Smith has been awarded the prestigious National Science Award for her groundbreaking research in the field of genetics. Join us in congratulating Dr. Smith on this remarkable achievement!"
+    },
+    {
+      "content": "Space Elevator Construction Begins, Promising Access to Space at Fraction of Current Cost"
+    },
+    {
+      "content": "AI Develops Cure for Cancer, Revolutionizing Medicine and Saving Millions of Lives"
+    },
+    {
+      "content": "Don't forget, this month's book club meeting will be held on Tuesday, September 12th at 7 PM at Susan's house. We will be discussing the novel 'The Time Traveler's Secret' by L.M. Montgomery. We look forward to seeing you there!"
+    }
+  ],
+  "real": [
+    {
+      "citation": "Wall, M. (2021, February 18). NASA's Perseverance rover lands on Mars to begin hunt for signs of ancient life. Space.com. https://www.space.com/mars-rover-perseverance-landing-success",
+      "content": "NASA's Perseverance Rover Lands on Mars to Search for Signs of Ancient Life"
+    },
+    {
+      "citation": "Greene, R. (2020, September 14). Scientists Find A Planet That Could Host Life. NPR. https://www.npr.org/2020/09/14/912799232/scientists-find-a-planet-that-could-host-life",
+      "content": "Scientists Discover Potential Signs of Life on Venus"
+    },
+    {
+      "citation": "Wattles, J. (2020, August 2). SpaceX Crew Dragon astronauts splash down after historic test flight. CNN. https://www.cnn.com/2020/08/02/tech/spacex-nasa-crew-dragon-landing-sunday/index.html",
+      "content": "SpaceX Crew Dragon Safely Returns NASA Astronauts to Earth"
+    },
+    {
+      "citation": "Weiland, N., & LaFraniere, S. (2020, November 9). Pfizer’s Early Data Shows Vaccine Is More Than 90% Effective. The New York Times. https://www.nytimes.com/2020/11/09/health/covid-vaccine-pfizer.html",
+      "content": "COVID-19 Vaccine Developed by Pfizer and BioNTech Shows Over 90% Efficacy"
+    },
+    {
+      "citation": "Parker, J., & Roy, E. A. (2020, October 7). New Zealand declares victory over coronavirus – again. The Guardian. https://www.theguardian.com/world/2020/oct/07/new-zealand-declares-victory-over-coronavirus-again",
+      "content": "New Zealand Declares Victory Over Coronavirus, Again"
+    },
+    {
+      "citation": "Miller, P. (2020, October 13). Apple announces iPhone 12 with OLED screen and 5G speeds. The Verge. https://www.theverge.com/2020/10/13/21514480/apple-iphone-12-5g-speeds-oled-display-design-specs-price",
+      "content": "Apple Unveils iPhone 12 with 5G Capabilities"
+    },
+    {
+      "citation": "World Health Organization. (2020, March 11). WHO Director-General's opening remarks at the media briefing on COVID-19 - 11 March 2020. https://www.who.int/director-general/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---11-march-2020",
+      "content": "World Health Organization Declares COVID-19 a Pandemic"
+    },
+    {
+      "citation": "Buchanan, L., Bui, Q., & Patel, J. K. (2020, November 7). Biden Wins Presidency, Ending Four Tumultuous Years Under Trump. The New York Times. https://www.nytimes.com/interactive/2020/11/03/us/elections/results-president.html",
+      "content": "US Presidential Election 2020: Joe Biden Defeats Donald Trump"
+    },
+    {
+      "citation": "Hill, E., Tiefenthäler, A., Triebert, C., Jordan, D., Willis, H., & Stein, R. (2020, May 31). 8 Minutes and 46 Seconds: How George Floyd Was Killed in Police Custody. The New York Times. https://www.nytimes.com/2020/05/31/us/george-floyd-investigation.html",
+      "content": "Protests Erupt Across US Following Death of George Floyd"
+    },
+    {
+      "citation": "BBC News. (2020, January 31). Brexit: UK leaves the European Union. https://www.bbc.com/news/uk-politics-51333314",
+      "content": "United Kingdom Officially Leaves the European Union"
+    },
+    {
+      "citation": "Readfearn, G. (2020, January 5). Australia's bushfires have emitted 250m tonnes of CO2, almost half of country's annual emissions. The Guardian. https://www.theguardian.com/environment/2020/jan/06/australias-bushfires-have-emitted-250m-tonnes-of-co2-almost-half-of-countrys-annual-emissions",
+      "content": "Australian Wildfires Ravage Millions of Acres, Killing Wildlife and Displacing Residents"
+    },
+    {
+      "citation": "Frank, R. (2020, August 26). Jeff Bezos becomes the first person ever worth $200 billion. CNBC. https://www.cnbc.com/2020/08/26/jeff-bezos-is-now-worth-a-record-200-billion.html",
+      "content": "Jeff Bezos Becomes First Person to Amass $200 Billion Net Worth"
+    },
+    {
+      "citation": "Liptak, A. (2020, September 18). Ruth Bader Ginsburg, Supreme Court's Feminist Icon, Is Dead at 87. The New York Times. https://www.nytimes.com/2020/09/18/us/ruth-bader-ginsburg-dead.html",
+      "content": "Supreme Court Justice Ruth Bader Ginsburg Passes Away at 87"
+    },
+    {
+      "citation": "Grush, L. (2021, May 5). SpaceX successfully lands prototype of its Mars rocket after several fiery failures. The Verge. https://www.theverge.com/2021/5/5/22421516/spacex-starship-prototype-sn15-test-flight-landing",
+      "content": "SpaceX Successfully Launches and Lands Starship SN15 Prototype"
+    },
+    {
+      "citation": "Frier, S., & Gurman, M. (2020, September 20). TikTok Deal with Oracle and Walmart Trips Over U.S.-China Feud. Bloomberg. https://www.bloomberg.com/news/articles/2020-09-19/trump-says-he-s-approving-tiktok-oracle-walmart-deal",
+      "content": "TikTok Avoids US Ban as Oracle and Walmart Reach Deal"
+    },
+    {
+      "citation": "Sengupta, S. (2020, June 23). In the Arctic Circle, a Record-Breaking Heat Wave. The New York Times. https://www.nytimes.com/2020/06/23/climate/arctic-heat-wave.html",
+      "content": "Record-breaking Heatwave Hits the Arctic Circle"
+    },
+    {
+      "citation": "Specia, M. (2020, October 9). Nobel Peace Prize Awarded to World Food Program. The New York Times. https://www.nytimes.com/2020/10/09/world/nobel-peace-prize.html",
+      "content": "Nobel Peace Prize 2020 Awarded to World Food Programme"
+    },
+    {
+      "citation": "Mallon, J. (2020, October 26). Scientists discover water on the moon. BBC News. https://www.bbc.com/news/science-environment-54666350",
+      "content": "Scientists Discover Water on Sunlit Surface of the Moon"
+    },
+    {
+      "citation": "BBC News. (2020, August 5). Beirut explosion: What we know so far. https://www.bbc.com/news/world-middle-east-53670839",
+      "content": "Lebanon Explosion: Massive Blast Devastates Beirut"
+    },
+    {
+      "citation": "Menn, J., & Kanter, J. (2020, July 15). High-profile Twitter accounts hacked in bitcoin scam. Reuters. https://www.reuters.com/article/us-twitter-cyber-idUSKCN24G2J1",
+      "content": "Twitter Suffers Major Security Breach with High-profile Accounts Hacked"
+    },
+    {
+      "citation": "Weill, K. (2020, July 2). Ghislaine Maxwell, Jeffrey Epstein's Confidant, Arrested by FBI. The Daily Beast. https://www.thedailybeast.com/ghislaine-maxwell-jeffrey-epsteins-confidant-arrested-by-fbi-report",
+      "content": "Ghislaine Maxwell Arrested by FBI on Charges Related to Jeffrey Epstein"
+    },
+    {
+      "citation": "BBC News. (2020, August 27). Hurricane Laura: What's the damage in Louisiana and Texas? https://www.bbc.com/news/world-us-canada-53929047",
+      "content": "Major Hurricane Laura Slams Louisiana and Texas Coastlines"
+    },
+    {
+      "citation": "Buckley, C. (2020, August 28). Chadwick Boseman, 'Black Panther",
+      "content": "Chadwick Boseman, Star of 'Black Panther', Dies at 43"
+    },
+    {
+      "citation": "Hennessy-Fiske, M., & Read, R. (2020, September 9). Wildfires rage across the West: 'It just took off like a jet engine.' Los Angeles Times. https://www.latimes.com/california/story/2020-09-09/west-coast-wildfires-continue-to-rage",
+      "content": "US West Coast Wildfires Rage, Thousands Evacuated"
+    },
+    {
+      "citation": "Reinicke, C. (2020, November 16). Tesla to join S&P 500 in December after surging 400% this year. Markets Insider. https://markets.businessinsider.com/news/stocks/tesla-stock-price-joins-sp-500-index-market-cap-400-gain-2020-11-1029794872",
+      "content": "Tesla Joins S&P 500 Index"
+    },
+    {
+      "citation": "Fandos, N., & Liptak, A. (2020, October 26). Barrett Confirmed as Supreme Court Justice in Partisan Vote. The New York Times. https://www.nytimes.com/2020/10/26/us/politics/senate-confirms-barrett.html",
+      "content": "US Supreme Court Justice Amy Coney Barrett Confirmed"
+    },
+    {
+      "citation": "Grady, D. (2020, November 16). Moderna's Covid Vaccine: What You Need to Know. The New York Times. https://www.nytimes.com/2020/11/16/health/Covid-moderna-vaccine.html",
+      "content": "COVID-19: Moderna Vaccine Shows Nearly 95% Efficacy"
+    },
+    {
+      "citation": "Molla, R. (2020, March 31). How the coronavirus pandemic has made Zoom the most important app of 2020. Vox. https://www.vox.com/recode/2020/3/31/21199586/coronavirus-zoom-app-video-conference",
+      "content": "Zoom Video Communications Sees Explosive Growth Amid Pandemic"
+    },
+    {
+      "citation": "BBC News. (2020, September 2). Alexei Navalny: Russian activist 'poisoned with Novichok.' https://www.bbc.com/news/world-europe-54002880",
+      "content": "Alexei Navalny, Russian Opposition Leader, Poisoned with Novichok"
+    },
+    {
+      "citation": "Belluck, P. (2020, February 6). First Human Trial of Gene Editing to Help Target Cancer Shows Promise. The New York Times. https://www.nytimes.com/2020/02/06/health/crispr-gene-editing-cancer.html",
+      "content": "First Human Trial of CRISPR Gene Editing for Cancer Shows Promising Results"
+    },
+    {
+      "citation": "Yee, V. (2020, January 24). Swarms of Locusts in Africa Are Worst in Decades. The New York Times. https://www.nytimes.com/2020/01/24/world/africa/locusts-kenya-africa.html",
+      "content": "Locust Swarms Threaten Food Security in East Africa"
+    },
+    {
+      "citation": "Cole, B. (2020, July 5). Kanye West Announces 2020 Presidential Run on Twitter. Newsweek",
+      "content": "Kanye West Announces Run for US President"
+    },
+    {
+      "citation": "https://www.bbc.com/news/world-asia-53715084",
+      "content": "New Zealand Marks 100 Days Without Community Transmission of COVID-19"
+    },
+    {
+      "citation": "https://www.carbonbrief.org/global-carbon-project-coronavirus-causes-record-fall-in-fossil-fuel-emissions-in-2020",
+      "content": "Global CO2 Emissions Drop by 6.4% in 2020"
+    },
+    {
+      "citation": "https://www.cnbc.com/2020/02/27/dow-futures-fall-100-points-following-stocks-worst-day-since-2011.html",
+      "content": "Stock Market Crash 2020: Dow Jones Drops Over 1,000 Points"
+    },
+    {
+      "citation": "https://www.reuters.com/article/us-usa-icc-idUSKBN23P2XJ",
+      "content": "US Sanctions International Criminal Court Officials"
+    },
+    {
+      "citation": "https://www.bbc.com/news/world-europe-53481542",
+      "content": "European Union Reaches Historic Deal on €750 Billion Recovery Fund"
+    },
+    {
+      "citation": "https://www.nytimes.com/2020/06/19/arts/music/bob-dylan-rough-and-rowdy-ways-review.html",
+      "content": "Bob Dylan Releases First Original Album in Eight Years"
+    },
+    {
+      "citation": "https://www.npr.org/2020/06/18/829858289/supreme-court-upholds-daca-in-blow-to-trump-administration",
+      "content": "US Supreme Court Rules in Favor of DACA Program"
+    },
+    {
+      "citation": "https://www.aljazeera.com/news/2020/3/28/italy-coronavirus-deaths-surge-by-889-in-a-day-to-10-023",
+      "content": "Italy Becomes First European Country to Exceed 10,000 COVID-19 Deaths"
+    },
+    {
+      "citation": "https://www.bbc.com/news/world-europe-47941794",
+      "content": "Notre-Dame Cathedral Fire Causes Extensive Damage"
+    },
+    {
+      "citation": "https://www.nytimes.com/2021/01/13/us/politics/trump-impeached.html",
+      "content": "US House of Representatives Impeaches President Donald Trump for Second Time"
+    }
+  ]
+}
