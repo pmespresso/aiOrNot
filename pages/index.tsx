@@ -1,7 +1,7 @@
 // pages/index.tsx
 import { useState } from "react";
 import Game from "./game";
-import Leaderboard from "../components/LeaderBoard";
+import Leaderboard from "../components/Leaderboard";
 import { useLicenseContext } from "../contexts/LicenseContext";
 
 const Home = () => {
