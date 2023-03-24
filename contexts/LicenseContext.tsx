@@ -1,6 +1,6 @@
 // contexts/LicenseContext.tsx
 
-import { createContext, useContext, useState } from "react";
+import { createContext, useContext, useEffect, useState } from "react";
 
 interface LicenseContextType {
   isVerified: boolean;
@@ -16,6 +16,10 @@ export const useLicenseContext = () => useContext(LicenseContext);
 
 export const LicenseProvider: React.FC = ({ children }) => {
   const [isVerified, setVerified] = useState(false);
+
+  useEffect(() => {
+    localStorage.getItem("licenseKey") && setVerified(true);
+  }, []);
 
   return (
     <LicenseContext.Provider value={{ isVerified, setVerified }}>
