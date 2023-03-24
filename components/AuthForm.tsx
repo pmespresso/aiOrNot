@@ -1,19 +1,20 @@
-// components/AuthForm.tsx
 import { useState } from "react";
-import { verifyLicenseKey } from "../gumroad";
+import {
+  PRODUCT_ID,
+  TEST_LICENSE_KEY,
+  verifyLicenseKey,
+} from "../utils/gumroad";
 import { useLicenseContext } from "../contexts/LicenseContext";
 
-const PRODUCT_ID = "your_product_id";
-
-// Add the new prop type
 interface AuthFormProps {
-  onSuccess: () => void;
+  onSuccess: (licenseKey: string) => void;
 }
 
-// Modify the AuthForm component to accept the new prop
 const AuthForm: React.FC<AuthFormProps> = ({ onSuccess }) => {
-  const { isVerified, setVerified } = useLicenseContext();
-  const [licenseKey, setLicenseKey] = useState("");
+  const { setVerified } = useLicenseContext();
+  const [licenseKey, setLicenseKey] = useState(
+    process.env.NODE_ENV === "production" ? "" : TEST_LICENSE_KEY,
+  );
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState("");
 
@@ -22,28 +23,24 @@ const AuthForm: React.FC<AuthFormProps> = ({ onSuccess }) => {
     setLoading(true);
     setError("");
 
-    if (process.env.NODE_ENV === "production") {
-      const response = await verifyLicenseKey(PRODUCT_ID, licenseKey);
+    const response = await verifyLicenseKey(PRODUCT_ID, licenseKey);
 
-      if (response.success) {
-        onSuccess();
-      } else {
-        setError(response.message || "License key verification failed");
-      }
+    if (response.success) {
+      onSuccess(licenseKey);
     } else {
-      onSuccess();
+      setError(response.message || "License key verification failed");
     }
 
     setVerified(true);
-
     setLoading(false);
   };
 
   return (
-    <form onSubmit={handleSubmit}>
+    <form onSubmit={handleSubmit} className="flex justify-center">
       <div>
         <label htmlFor="licenseKey">License Key:</label>
         <input
+          className="py-8 px-24 border-2 border-gray-300 rounded-lg"
           id="licenseKey"
           type="text"
           value={licenseKey}
@@ -52,7 +49,11 @@ const AuthForm: React.FC<AuthFormProps> = ({ onSuccess }) => {
         />
       </div>
       {error && <p className="text-red-500">{error}</p>}
-      <button type="submit" disabled={loading}>
+      <button
+        type="submit"
+        disabled={loading}
+        className="bg-blue-300 px-12 py-4"
+      >
         {loading ? "Verifying..." : "Verify License Key"}
       </button>
     </form>
