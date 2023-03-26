@@ -1,0 +1,194 @@
+{
+  "fake": [
+    {
+      "image_url": "biden_1.png"
+    },
+    {
+      "image_url": "epstein_1.png"
+    },
+    {
+      "image_url": "markle_putin_1.png"
+    },
+    {
+      "image_url": "markle_putin_2.png"
+    },
+    {
+      "image_url": "markle_musk_1.png"
+    },
+    {
+      "image_url": "obama_1.png"
+    },
+    {
+      "image_url": "obama_2.png"
+    },
+    {
+      "image_url": "obama_3.png"
+    },
+    {
+      "image_url": "pope_1.png"
+    },
+    {
+      "image_url": "pope_2.png"
+    },
+    {
+      "image_url": "pope_3.png"
+    },
+    {
+      "image_url": "pope_4.png"
+    },
+    {
+      "image_url": "queen_1.png"
+    },
+    {
+      "image_url": "trump_1.png"
+    },
+    {
+      "image_url": "trump_2.png"
+    },
+    {
+      "image_url": "trump_3.png"
+    },
+    {
+      "image_url": "trump_4.png"
+    }
+  ],
+
+  "real": [
+    {
+      "citation": "https://twitter.com/POTUS/status/1639324973721583617",
+      "image_url": "biden_1.jpg"
+    },
+    {
+      "citation": "https://twitter.com/POTUS/status/1639324973721583617",
+      "image_url": "biden_2.jpg"
+    },
+    {
+      "citation": "https://www.nydailynews.com/sports/baseball/president-obama-throws-pitch-2009-all-star-game-st-louis-article-1.429153",
+      "image_url": "obama_1.jpg"
+    },
+    {
+      "citation": "https://www.theguardian.com/us-news/shortcuts/2016/may/02/obama-out-mic-drop-white-house-correspondents-dinner",
+      "image_url": "obama_2.jpg"
+    },
+    {
+      "citation": "https://www.americamagazine.org/faith/2021/03/13/pope-francis-eight-year-anniversary-papacy-images-240226",
+      "image_url": "pope_1.jpg"
+    },
+    {
+      "citation": "https://www.americamagazine.org/faith/2021/03/13/pope-francis-eight-year-anniversary-papacy-images-240226",
+      "image_url": "pope_2.jpg"
+    },
+    {
+      "citation": "https://www.americamagazine.org/faith/2021/03/13/pope-francis-eight-year-anniversary-papacy-images-240226",
+      "image_url": "pope_3.jpg"
+    },
+    {
+      "citation": "https://www.americamagazine.org/faith/2021/03/13/pope-francis-eight-year-anniversary-papacy-images-240226",
+      "image_url": "pope_4.jpg"
+    },
+    {
+      "citation": "https://www.businessinsider.com/best-donald-trump-pictures-presidency-2020-11?op=1",
+      "image_url": "trump_1.jpg"
+    },
+    {
+      "citation": "https://www.businessinsider.com/best-donald-trump-pictures-presidency-2020-11?op=1",
+      "image_url": "trump_2.jpg"
+    },
+    {
+      "citation": "https://www.businessinsider.com/best-donald-trump-pictures-presidency-2020-11?op=1",
+      "image_url": "trump_3.jpg"
+    },
+    {
+      "citation": "https://www.businessinsider.com/best-donald-trump-pictures-presidency-2020-11?op=1",
+      "image_url": "trump_4.jpg"
+    },
+    {
+      "citation": "https://www.businessinsider.com/best-donald-trump-pictures-presidency-2020-11?op=1",
+      "image_url": "trump_5.jpg"
+    },
+    {
+      "citation": "https://www.bbc.com/news/world-europe-50729110",
+      "image_url": "putin_1.jpg"
+    },
+    {
+      "citation": "https://www.bbc.com/news/world-europe-50729110",
+      "image_url": "putin_2.jpg"
+    },
+    {
+      "citation": "https://www.bbc.com/news/world-europe-50729110",
+      "image_url": "putin_3.jpg"
+    },
+    {
+      "citation": "https://www.bbc.com/news/world-europe-50729110",
+      "image_url": "putin_4.jpg"
+    },
+    {
+      "citation": "https://www.bbc.com/news/world-europe-50729110",
+      "image_url": "putin_5.jpg"
+    },
+    {
+      "citation": "https://www.bbc.com/news/world-europe-50729110",
+      "image_url": "putin_6.jpg"
+    },
+    {
+      "citation": "https://www.bbc.com/news/world-europe-50729110",
+      "image_url": "putin_7.jpg"
+    },
+    {
+      "citation": "https://www.bbc.com/news/world-europe-50729110",
+      "image_url": "putin_8.jpg"
+    },
+    {
+      "citation": "https://www.bbc.com/news/world-europe-50729110",
+      "image_url": "putin_9.jpg"
+    },
+    {
+      "citation": "https://www.bbc.com/news/world-europe-50729110",
+      "image_url": "putin_10.jpg"
+    },
+    {
+      "citation": "https://brobible.com/wp-content/uploads/2020/04/kim-jong-un.jpg",
+      "image_url": "kim-jung-un_1.jpg"
+    },
+    {
+      "citation": "https://www.bbc.com/news/in-pictures-61645231",
+      "image_url": "queen_1.jpg"
+    },
+    {
+      "citation": "https://www.bbc.com/news/in-pictures-61645231",
+      "image_url": "queen_2.jpg"
+    },
+    {
+      "citation": "https://www.bbc.com/news/in-pictures-61645231",
+      "image_url": "queen_3.jpg"
+    },
+    {
+      "citation": "https://www.bbc.com/news/in-pictures-61645231",
+      "image_url": "queen_4.jpg"
+    },
+    {
+      "citation": "https://www.bbc.com/news/in-pictures-61645231",
+      "image_url": "queen_5.jpg"
+    },
+    {
+      "citation": "https://www.bbc.com/news/in-pictures-61645231",
+      "image_url": "queen_6.jpg"
+    },
+    {
+      "citation": "https://www.bbc.com/news/in-pictures-61645231",
+      "image_url": "queen_7.jpg"
+    },
+    {
+      "citation": "https://www.bbc.com/news/in-pictures-61645231",
+      "image_url": "queen_8.jpg"
+    },
+    {
+      "citation": "https://www.bbc.com/news/in-pictures-61645231",
+      "image_url": "queen_9.jpg"
+    },
+    {
+      "citation": "https://www.bbc.com/news/in-pictures-61645231",
+      "image_url": "queen_10.jpg"
+    }
+  ]
+}

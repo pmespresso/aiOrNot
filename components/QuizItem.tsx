@@ -1,8 +1,10 @@
+import Image from "next/image";
 import { useEffect, useState } from "react";
 
 interface QuizItemType {
   citation?: string;
   content: string;
+  image_url?: string;
 }
 
 interface QuizItemProps {
@@ -35,6 +37,14 @@ const QuizItem: React.FC<QuizItemProps> = ({
     onSelected(!isSelected);
   };
 
+  const imageUrl = item.image_url
+    ? `https://firebasestorage.googleapis.com/v0/b/realoraigame.appspot.com/o/${
+        item.citation ? "real" : "fake"
+      }%2F${encodeURIComponent(item.image_url)}?alt=media`
+    : null;
+
+  console.log("Image Url is: ", imageUrl);
+
   return (
     <div
       className={`border-2 rounded-lg p-4 hover:border-blue-300 hover:bg-blue-50 shadow-md px-8 pt-6 pb-8 mb-4 cursor-pointer ${cardBgColor} ${
@@ -47,6 +57,18 @@ const QuizItem: React.FC<QuizItemProps> = ({
       onClick={handleSelect}
     >
       <div className="mb-4 flex-column justify-start">
+        {imageUrl && (
+          <div className="mb-4 min-w-fit max-h-fit">
+            <Image
+              src={imageUrl}
+              alt="quiz-item"
+              width={500}
+              height={300}
+              style={{ objectFit: "cover" }}
+              className="rounded-lg"
+            />
+          </div>
+        )}
         <p className="mb-4">{item.content}</p>
         {showAnswer && (
           <div className="flex-column mb-4 justify-start align-baseline">
