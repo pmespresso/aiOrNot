@@ -47,7 +47,9 @@ const QuizItem: React.FC<QuizItemProps> = ({
 
   return (
     <div
-      className={`border-2 rounded-lg p-4 hover:border-blue-300 hover:bg-blue-50 shadow-md px-8 pt-6 pb-8 mb-4 cursor-pointer ${cardBgColor} ${
+      className={`border-2 rounded-lg hover:border-blue-300 hover:bg-blue-50 shadow-md ${
+        imageUrl ? "px-2 py-2" : "px-8 pt-6"
+      }  cursor-pointer ${cardBgColor} ${
         showAnswer
           ? correct
             ? "border-green-500 bg-green-100"
@@ -58,7 +60,7 @@ const QuizItem: React.FC<QuizItemProps> = ({
     >
       <div className="mb-4 flex-column justify-start">
         {imageUrl && (
-          <div className="mb-4 min-w-fit max-h-fit">
+          <div className="mb-4 w-full h-full max-h-full">
             <Image
               src={imageUrl}
               alt="quiz-item"

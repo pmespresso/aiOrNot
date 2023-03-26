@@ -15,6 +15,7 @@ const Game = () => {
   const [userChoices, setUserChoices] = useState({});
   const [seenRealExamples, setSeenRealExamples] = useState([]);
   const [seenFakeExamples, setSeenFakeExamples] = useState([]);
+  const [hasImage, setHasImage] = useState(false);
 
   const fetchData = async () => {
     setLoading(true);
@@ -39,6 +40,7 @@ const Game = () => {
     setItems(shuffledItems);
     setLoading(false);
     setUserChoices({}); // Reset userChoices state
+    setHasImage(shuffledItems.some((item) => item.image_url));
   };
 
   const handleShowAnswer = async () => {
@@ -62,14 +64,16 @@ const Game = () => {
   }, []);
 
   return (
-    <div className="flex flex-col items-center justify-center min-h-screen min-w-full bg-gray-50">
+    <div className="flex flex-col items-center justify-center min-w-full bg-transparent">
       <h1 className="text-4xl font-serif font-semibold mb-4 text-gray-800">
         AI or Not
       </h1>
       <p className="mb-4 font-bold">
-        Select the Options You Believe to be REAL.
+        Select the Options You Believe to be FAKE.
       </p>
-      <div className="bg-white p-6 rounded-lg shadow-lg w-full max-w-3xl">
+      <div
+        className={`${hasImage ? "p-0" : "p-6"} rounded-lg w-full max-w-3xl`}
+      >
         <div className="grid grid-cols-2 gap-4">
           {loading ? (
             <p>Loading...</p>

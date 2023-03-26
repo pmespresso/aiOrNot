@@ -1,16 +1,16 @@
 // pages/index.tsx
 import { useState } from "react";
+
 import Game from "./game";
 import Leaderboard from "../components/Leaderboard";
-import { useLicenseContext } from "../contexts/LicenseContext";
+import Footer from "../components/Footer";
 
 const Home = () => {
   const [activeTab, setActiveTab] = useState("game");
-  const { isVerified } = useLicenseContext();
 
   return (
-    <div className="min-h-screen bg-gray-100">
-      <div className="container mx-auto p-4">
+    <div className="flex flex-col justify-between h-screen">
+      <div className="mx-auto p-4 flex-grow max-h-screen overflow-auto bg-gray-50 bg-opacity-75 backdrop-blur rounded-xl">
         <div className="flex justify-center mb-6">
           <button
             className={`px-4 py-2 rounded-t-lg ${
@@ -28,13 +28,13 @@ const Home = () => {
           >
             Leaderboard
           </button>
-          {isVerified && <p className="px-4 py-2 rounded-t-lg">Signed In</p>}
         </div>
         <div className="bg-white rounded-lg shadow p-4">
           {activeTab === "game" && <Game />}
           {activeTab === "leaderboard" && <Leaderboard />}
         </div>
       </div>
+      <Footer />
     </div>
   );
 };

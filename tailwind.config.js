@@ -1,5 +1,5 @@
 module.exports = {
-  darkMode: false, // or 'media' or 'class'
+  darkMode: true, // or 'media' or 'class'
   theme: {
     extend: {},
   },
